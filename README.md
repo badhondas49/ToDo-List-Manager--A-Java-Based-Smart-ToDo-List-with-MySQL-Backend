@@ -24,3 +24,5 @@ JDBC with MySQL for database operations
 MVC-style separation for clean and maintainable code
 
 Ideal for beginners looking to understand full-stack desktop application development in Java or as a base for more advanced task management systems.
+
+
